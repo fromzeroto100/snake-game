@@ -49,5 +49,3 @@ def move(self):
 
 
 
-
-screen.exitonclick() 
